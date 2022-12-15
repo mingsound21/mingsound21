@@ -5,8 +5,16 @@
   <h3>안녕하세요 성장하는 개발자 김민정입니다! 👋</h3>
 </div>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingsound21%2Fhit-counter&count_bg=%2365B2F7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+<div>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingsound21%2Fhit-counter&count_bg=%23399CDC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+&nbsp;<!-- 뱃지 사이 간격 조정 -->
+  
+<a href="https://velog.io/@mingsound21"> 
+    <img 
+        src="http://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@mingsound21"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+</div>
 
 <!--
 ![mingsound's github stats](https://github-readme-stats.vercel.app/api?username=mingsound21&show_icons=true&hide_border=true)
