@@ -16,11 +16,11 @@
 </a>
 </div>
 
-<!--
+<br>
+
 ![mingsound's github stats](https://github-readme-stats.vercel.app/api?username=mingsound21&show_icons=true&hide_border=true)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingsound21&layout=compact)
--->
 
 <div align=center> 
   
