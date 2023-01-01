@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=mingsound&fontSize=90&animation=fadeIn)
 
 <div align=center> 
-  <h3>안녕하세요 성장하는 개발자 김민정입니다! 👋</h3>
+  <h3>안녕하세요 성장하는 개발자 김민정입니다! 😃</h3>
 </div>
 
 <div>
